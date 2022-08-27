@@ -121,3 +121,6 @@ forest(m2, header = TRUE, slab = meandat$Study, main = "Forest Plot")
 # Funnel Plot (Figure 2)
 funnel(m2, main = 'Funnel Plot')
 text(m2$yi,sqrt(m2$vi)-.2, m2$slab, cex=.8)
+
+# Egger's Regression test for funnel plot asymmetry
+regtest(m2)
