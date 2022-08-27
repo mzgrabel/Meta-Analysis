@@ -10,7 +10,6 @@ dim(data)
 head(data)
 data <- as.data.frame(data)
 
-# Table 2
 data[,2] <- as.numeric(data[,2]) # make the variables numeric
 data[,3] <- as.numeric(data[,3])
 data[,4] <- as.numeric(data[,4])
@@ -18,6 +17,8 @@ data[,5] <- as.numeric(data[,5])
 data[,6] <- as.numeric(data[,6])
 data[,7] <- as.numeric(data[,7])
 data[,8] <- as.numeric(data[,8])
+
+# Table 1
 
 Capelle <- data[1:4,]
 summary(Capelle)
