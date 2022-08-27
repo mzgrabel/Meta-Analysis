@@ -24,3 +24,4 @@ The code does the following:
 - returns the estimate value confidence interval and pvalue for the model
 - creates forest plot Figure 3 based on the output 
 - creates funnel plot Figure 2 based on the output and labels the studies in the plot
+- runs Egger's regression test for funnel plot asymmetry 
