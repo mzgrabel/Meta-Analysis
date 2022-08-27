@@ -1,5 +1,5 @@
 # Meta-Analysis
-This provides the data and code for the paper: Pallidal Deep Brain Stimulation for Tardive Syndromes: A Meta Analysis of Clinical Outcomes
+This provides the data and code for the paper: Pallidal Deep Brain Stimulation for Tardive Dystonia: A Meta Analysis of Clinical Outcomes
 
 The first three word documents are the results of the pubmed literature searches denoted in the title and header including all the abstracts. Highlighted are the relevant papers found and used.
 
